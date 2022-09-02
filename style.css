@@ -1,0 +1,21 @@
+*{
+    font-family:'Arial';
+}
+.block{
+    padding: 0;
+    margin: 0;
+
+}
+
+.latanoids{
+    background-color: greenyellow;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.pink{
+    background-color: violet;
+}
