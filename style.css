@@ -1,0 +1,43 @@
+
+
+
+    button {
+    
+        background-color: #6C5CE7;
+        color:  #fff;
+        letter-spacing: 2px;
+    padding: 8px 16px;
+        font-family: 'Inter';
+    font-size: large;
+    border: 1px solid #adadad;
+    border-radius: 100px;
+    cursor: pointer;
+    size: 18px;
+    line-height: 32px;
+    }
+    
+    
+
+
+
+
+       button {
+        margin-top: 20px;
+        margin-left: 30px;
+        background: #6C5CE7;
+        border-color: #6C5CE7;
+        border-radius: 100px;
+        border: 1px solid #adadad;
+    padding: 3px 16px;
+    
+    font-size: 18px;
+    line-height: 32px; 
+    color: white;
+    cursor: pointer;
+    }
+    
+#New{
+    background: #FDCB6E;
+    color: #6C5CE7;
+}
+    
